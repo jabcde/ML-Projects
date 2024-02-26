@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: MLProjects
+Version: 0.0.1
+Author: Aruba
+Author-email: jabcdefghi777@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
